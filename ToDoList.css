@@ -1,0 +1,15 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+    background-color:orangered ;
+   }
+   .todo-item p {
+    color: #0b0b0b;
+    background-color: wheat;
+    text-decoration: line-through;
+   }
+   .todo-item >button {
+    background-color: rgb(255, 255, 255);
+
+   }
